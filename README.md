@@ -1,0 +1,1 @@
+# Predicting-Solar-Power-Generation-Using-Machine-Learning-and-Weather-Data
